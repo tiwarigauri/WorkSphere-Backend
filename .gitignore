@@ -14,8 +14,6 @@ target/
 .sts4-cache
 .metadata
 
-springboot-backend/src/main/resources/application.properties
-
 ### IntelliJ IDEA ###
 .idea
 *.iws
